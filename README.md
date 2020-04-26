@@ -6,6 +6,6 @@
 
 [演示地址](https://luck-f.github.io/study/)
 
-感谢HTLM作者@Chenmo，个人修改了部分代码
+感谢作者@Chenmo，个人修改了部分代码
 
 以上内容仅供学习参考
